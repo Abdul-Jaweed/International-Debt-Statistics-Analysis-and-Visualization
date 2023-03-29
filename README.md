@@ -6,7 +6,7 @@
 ## Team Member :
 
  - # ABDUL JAWEED
- - # PRATEEK CHAURASIA
+ - # PRATEEK KUMAR CHAURASIA
 
 ## Problem Statement:
 
